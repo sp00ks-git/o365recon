@@ -1,6 +1,10 @@
 # o365recon
 script to retrieve information via O365 and AzureAD with a valid cred
 
+```
+iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/sp00ks-git/o365recon/master/o365recon.ps1')
+```
+
 ## setup
 Install these two modules
 ```
